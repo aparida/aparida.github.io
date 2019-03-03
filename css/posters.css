@@ -1,0 +1,1877 @@
+
+@font-face {
+                          font-family: "SFProText-Bold";
+                          src: url('../fonts/SF-Pro-Text-Bold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Medium";
+                          src: url('../fonts/SF-Pro-Text-Medium.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Semibold";
+                          src: url('../fonts/SF-Pro-Text-Semibold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-Regular";
+                          src: url('../fonts/SF-Pro-Text-Regular.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Bold";
+                          src: url('../fonts/SF-Pro-Display-Bold.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Light";
+                          src: url('../fonts/SF-Pro-Display-Light.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Regular";
+                          src: url('../fonts/SF-Pro-Display-Regular.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-BoldItalic";
+                          src: url('../fonts/SF-Pro-Display-BoldItalic.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-LightItalic";
+                          src: url('../fonts/SF-Pro-Display-LightItalic.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProDisplay-Italic";
+                          src: url('../fonts/SF-Pro-Display-RegularItalic.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "SFProText-LightItalic";
+                          src: url('../fonts/SF-Pro-Text-LightItalic.otf') format("opentype");
+                        }
+                        
+.posters {
+  width               : 100%;
+  min-width           : 800px;
+  height              : 100vh;
+  min-height          : 3321px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(13, 13, 13, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-animate-enter28 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter28-frames 0.600000023842s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter28-frames 0.600000023842s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter28-frames 0.600000023842s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter28-frames 0.600000023842s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0.40000000596s;
+  -moz-animation-delay: 0.40000000596s;
+  -o-animation-delay  : 0.40000000596s;
+  animation-delay     : 0.40000000596s;
+}
+@-webkit-keyframes anima-animate-enter28-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter28-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter28-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter28-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter29 {
+  opacity             : 0;
+  transform           : translate(0, 60px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter29-frames 0.800000011921s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter29-frames 0.800000011921s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter29-frames 0.800000011921s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter29-frames 0.800000011921s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -o-animation-delay  : 0.5s;
+  animation-delay     : 0.5s;
+}
+@-webkit-keyframes anima-animate-enter29-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 60px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter29-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 60px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter29-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 60px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter29-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 60px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter30 {
+  opacity             : 0;
+  transform           : translate(0, 60px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter30-frames 0.800000011921s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter30-frames 0.800000011921s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter30-frames 0.800000011921s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter30-frames 0.800000011921s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -o-animation-delay  : 0.5s;
+  animation-delay     : 0.5s;
+}
+@-webkit-keyframes anima-animate-enter30-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 60px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter30-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 60px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter30-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 60px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter30-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 60px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter31 {
+  opacity             : 0;
+  transform           : translate(0, 60px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter31-frames 0.800000011921s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter31-frames 0.800000011921s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter31-frames 0.800000011921s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter31-frames 0.800000011921s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 1s;
+  -moz-animation-delay: 1s;
+  -o-animation-delay  : 1s;
+  animation-delay     : 1s;
+}
+@-webkit-keyframes anima-animate-enter31-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 60px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter31-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 60px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter31-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 60px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter31-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 60px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter32 {
+  display             : block;
+  -webkit-animation   : anima-animate-enter32-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter32-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter32-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter32-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 1.20000004768s;
+  -moz-animation-delay: 1.20000004768s;
+  -o-animation-delay  : 1.20000004768s;
+  animation-delay     : 1.20000004768s;
+}
+@-webkit-keyframes anima-animate-enter32-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+@-moz-keyframes anima-animate-enter32-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+@-o-keyframes anima-animate-enter32-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+@keyframes anima-animate-enter32-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+.anima-animate-enter33 {
+  opacity             : 0;
+  transform           : translate(0, 40px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter33-frames 0.800000011921s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter33-frames 0.800000011921s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter33-frames 0.800000011921s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter33-frames 0.800000011921s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0.800000011921s;
+  -moz-animation-delay: 0.800000011921s;
+  -o-animation-delay  : 0.800000011921s;
+  animation-delay     : 0.800000011921s;
+}
+@-webkit-keyframes anima-animate-enter33-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 40px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter33-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 40px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter33-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 40px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter33-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 40px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter34 {
+  opacity             : 0;
+  transform           : translate(0, 40px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter34-frames 0.800000011921s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter34-frames 0.800000011921s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter34-frames 0.800000011921s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter34-frames 0.800000011921s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0.800000011921s;
+  -moz-animation-delay: 0.800000011921s;
+  -o-animation-delay  : 0.800000011921s;
+  animation-delay     : 0.800000011921s;
+}
+@-webkit-keyframes anima-animate-enter34-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 40px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter34-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 40px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter34-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 40px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter34-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 40px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter35 {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-animate-enter35-frames 0.600000023842s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter35-frames 0.600000023842s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter35-frames 0.600000023842s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter35-frames 0.600000023842s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 1.5s;
+  -moz-animation-delay: 1.5s;
+  -o-animation-delay  : 1.5s;
+  animation-delay     : 1.5s;
+}
+@-webkit-keyframes anima-animate-enter35-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+@-moz-keyframes anima-animate-enter35-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+@-o-keyframes anima-animate-enter35-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+@keyframes anima-animate-enter35-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+.anima-animate-enter36 {
+  opacity             : 0;
+  transform           : translate(0, 50px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter36-frames 0.800000011921s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter36-frames 0.800000011921s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter36-frames 0.800000011921s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter36-frames 0.800000011921s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -o-animation-delay  : 0.5s;
+  animation-delay     : 0.5s;
+}
+@-webkit-keyframes anima-animate-enter36-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 50px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter36-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 50px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter36-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 50px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter36-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 50px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.posters .otherprojects {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 833px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .otherprojects-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 2868px;
+  align-items         : center;
+  height              : 340px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.posters .otherprojects .card1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 70px;
+  height              : 270px;
+  width               : 428px;
+  max-width           : calc(0.00% + 464px);
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  transition          : all 0.5s ease-in-out;
+}
+.posters .otherprojects .card1:hover {
+  transform           : translate(0, -8px);
+  opacity             : 1;
+}
+.posters .otherprojects .card1 .rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 270px;
+  width               : 428px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .otherprojects .card1 .proj2info {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 152px;
+  width               : 327px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .otherprojects .card1 .proj2info .smartsum {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 327px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "SFProDisplay-Bold", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.84px;
+  line-height         : 43.0px;
+}
+.posters .otherprojects .card1 .proj2info .anewwaytohelpyo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 100px;
+  height              : auto;
+  width               : 327px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.35px;
+  line-height         : 26.0px;
+}
+.posters .otherprojects .card11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 70px;
+  height              : 270px;
+  width               : 432px;
+  max-width           : calc(0.00% + 464px);
+  position            : absolute;
+  margin              : 0;
+  left                : 401px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  transition          : all 0.5s ease-in-out;
+}
+.posters .otherprojects .card11:hover {
+  transform           : translate(0, -8px);
+  opacity             : 1;
+}
+.posters .otherprojects .card11 .rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 270px;
+  width               : 432px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .otherprojects .card11 .proj2info {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 152px;
+  width               : 330px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .otherprojects .card11 .proj2info .smartsum {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 330px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "SFProDisplay-Bold", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.84px;
+  line-height         : 43.0px;
+}
+.posters .otherprojects .card11 .proj2info .solvingforthebla {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 100px;
+  height              : auto;
+  width               : 330px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.35px;
+  line-height         : 26.0px;
+}
+.posters .otherprojects .recentprojects {
+  background-color    : rgba(255,255,255,0.0);
+  width               : auto;
+  margin-right        : -1px;
+  height              : auto;
+  pointer-events      : auto;
+  margin-left         : 1px;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "SFProText-Medium", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 3.0px;
+  line-height         : 16.0px;
+}
+.posters .otherprojects .recentprojects-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.posters .poster3 {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 2117px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .poster3-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 2003px;
+  align-items         : center;
+  height              : 817px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.posters .poster3 .binaryminedribbble01 {
+  background-color    : rgba(80, 227, 194, 1.0);
+  top                 : 0px;
+  height              : 817px;
+  width               : 2117px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .poster3 .binaryminedribbble01 .mask {
+  background-color    : rgba(80, 227, 194, 1.0);
+  top                 : 0px;
+  height              : 817px;
+  width               : 2117px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .poster3 .binaryminedribbble01 .binaryminedribbble011 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -872px;
+  height              : 1980px;
+  width               : 2728px;
+  position            : absolute;
+  margin              : 0;
+  left                : -159px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .poster3 .binaryminedribbble01 .rectangle3 {
+  background-color    : rgba(245, 165, 35, 1.0);
+  top                 : -1px;
+  height              : 818px;
+  width               : 2117px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+}
+.posters .poster3 .group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 606px;
+  width               : 433px;
+  position            : absolute;
+  margin              : 0;
+  left                : 827px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .poster3 .group2 .loopergroup {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 606px;
+  width               : 433px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .poster3 .group2 .loopergroup .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 606px;
+  width               : 433px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .poster3 .group2 .loopergroup .mask {
+  background-color    : rgba(228, 142, 0, 1.0);
+  top                 : 31px;
+  height              : 518px;
+  width               : 345px;
+  position            : absolute;
+  margin              : 0;
+  left                : 54px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .poster3 .group2 .loopergroup .loopergroup1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : 687px;
+  width               : 608px;
+  position            : absolute;
+  margin              : 0;
+  left                : -97px;
+  -ms-transform       : rotate(1deg); /* IE 9 */
+  -webkit-transform   : rotate(1deg); /* Chrome, Safari, Opera */
+  transform           : rotate(1deg);
+}
+.posters .poster3 .group2 .loopergroup .u2014sherylsandberg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 172px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 173px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "SFProDisplay-BoldItalic", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.posters .poster3 .group2 .loopergroup .ifyouu2019reoffereda {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 78px;
+  height              : auto;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : 81px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 25.0px;
+}
+.posters .poster3 .careerinspirations {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 730px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1318px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "SFProDisplay-LightItalic", Helvetica, Arial, serif;
+  font-size           : 9.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.5px;
+  line-height         : 11.0px;
+}
+.posters .poster3 .abstract {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 730px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 696px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "SFProDisplay-Italic", Helvetica, Arial, serif;
+  font-size           : 9.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.5px;
+  line-height         : 11.0px;
+}
+.posters .poster3 .a2018 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 730px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 737px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "SFProDisplay-Italic", Helvetica, Arial, serif;
+  font-size           : 9.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.5px;
+  line-height         : 11.0px;
+}
+.posters .poster2 {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 2117px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .poster2-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 1211px;
+  align-items         : center;
+  height              : 794px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.posters .poster2 .binaryminedribbble01 {
+  background-color    : rgba(202, 43, 49, 1.0);
+  top                 : 0px;
+  height              : 794px;
+  width               : 2117px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .poster2 .binaryminedribbble01 .mask {
+  background-color    : rgba(202, 43, 49, 1.0);
+  top                 : 0px;
+  height              : 794px;
+  width               : 2117px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+}
+.posters .poster2 .binaryminedribbble01 .binaryminedribbble011 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -424px;
+  height              : 1609px;
+  width               : 2217px;
+  position            : absolute;
+  margin              : 0;
+  left                : -361px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .poster2 .binaryminedribbble01 .mask1 {
+  background-color    : rgba(202, 43, 49, 1.0);
+  top                 : 0px;
+  height              : 794px;
+  width               : 2117px;
+  position            : absolute;
+  margin              : 0;
+  left                : -3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+}
+.posters .poster2 .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 108px;
+  height              : 606px;
+  width               : 433px;
+  position            : absolute;
+  margin              : 0;
+  left                : 828px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .poster2 .a2018 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 709px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 711px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "SFProDisplay-Italic", Helvetica, Arial, serif;
+  font-size           : 9.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.5px;
+  line-height         : 11.0px;
+}
+.posters .poster2 .abstractinspiration {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 709px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1315px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "SFProDisplay-LightItalic", Helvetica, Arial, serif;
+  font-size           : 9.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.5px;
+  line-height         : 11.0px;
+}
+.posters .poster1 {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 2396px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .poster1-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 240px;
+  align-items         : center;
+  height              : 970px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.posters .poster1 .rectangle3 {
+  background-color    : rgba(80, 227, 194, 1.0);
+  top                 : 208px;
+  height              : 600px;
+  width               : 800px;
+  position            : absolute;
+  margin              : 0;
+  left                : 800px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .poster1 .binaryminedribbble01 {
+  background-color    : rgba(76, 45, 239, 1.0);
+  top                 : 206px;
+  height              : 764px;
+  width               : 2117px;
+  position            : absolute;
+  margin              : 0;
+  left                : 140px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .poster1 .binaryminedribbble01 .mask {
+  background-color    : rgba(76, 45, 239, 1.0);
+  top                 : 0px;
+  height              : 764px;
+  width               : 2117px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+}
+.posters .poster1 .binaryminedribbble01 .binaryminedribbble011 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -460px;
+  height              : 1609px;
+  width               : 2217px;
+  position            : absolute;
+  margin              : 0;
+  left                : 251px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .poster1 .binaryminedribbble01 .mask1 {
+  background-color    : rgba(76, 45, 239, 1.0);
+  top                 : 0px;
+  height              : 764px;
+  width               : 2396px;
+  position            : absolute;
+  margin              : 0;
+  left                : -140px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+}
+.posters .poster1 .loopergroup {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 278px;
+  height              : 606px;
+  width               : 433px;
+  position            : absolute;
+  margin              : 0;
+  left                : 967px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .poster1 .a2018 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 876px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 856px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "SFProDisplay-Italic", Helvetica, Arial, serif;
+  font-size           : 9.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.5px;
+  line-height         : 11.0px;
+}
+.posters .poster1 .abstractinspiration {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 876px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1460px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "SFProDisplay-LightItalic", Helvetica, Arial, serif;
+  font-size           : 9.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.5px;
+  line-height         : 11.0px;
+}
+.posters .navbar {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 802px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .navbar-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0px;
+  align-items         : center;
+  height              : 72px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.posters .navbar .navrect {
+  background-color    : rgba(16, 16, 16, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 802px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+}
+.posters .navbar .logomain {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : 46px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .navbar .logomain .logo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 26px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.posters .navbar .logomain .logo:hover {
+  transform           : rotate(-30deg);
+}
+.posters .navbar .logomain .label1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "SFProText-Semibold", Helvetica, Arial, serif;
+  font-size           : 39.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.64px;
+  line-height         : 46.0px;
+}
+.posters .navbar .navi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : 18px;
+  width               : 338px;
+  position            : absolute;
+  margin              : 0;
+  left                : 415px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .navbar .navi .navabout {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 128px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.4s ease-in-out;
+  font-family         : "SFProText-Regular", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(170, 170, 170, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.35px;
+  line-height         : 18.0px;
+}
+.posters .navbar .navi .navabout:hover {
+  color               : #FFFFFF;
+}
+.posters .navbar .navi .worknav {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 41px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .navbar .navi .worknav .navwork {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "SFProText-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.35px;
+  line-height         : 18.0px;
+}
+.posters .navbar .navi .navcontact {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 91px;
+  position            : absolute;
+  margin              : 0;
+  left                : 247px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.4s ease-in-out;
+  font-family         : "SFProText-Regular", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(170, 170, 170, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.35px;
+  line-height         : 18.0px;
+}
+.posters .navbar .navi .navcontact:hover {
+  color               : #FFFFFF;
+}
+.posters .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 533px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .group3-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 161px;
+  align-items         : center;
+  height              : 178px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.posters .group3 .tagline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "SFProText-Bold", Helvetica, Arial, serif;
+  font-size           : 46.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.46px;
+  line-height         : 75.0px;
+}
+.posters .group3 .taglinecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 48px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 89px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "SFProText-LightItalic", Helvetica, Arial, serif;
+  font-size           : 26.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.26px;
+  line-height         : 75.0px;
+}
+.posters .group3 .chevrondown24 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 154px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 255px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.posters .group3 .chevrondown24:hover {
+  transform           : scale(1.15);
+}
+.posters .footer {
+  background-color    : rgba(255,255,255,0.0);
+  margin-right        : -0px;
+  width               : 447px;
+  height              : 100%;
+  pointer-events      : auto;
+  margin-left         : 0px;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.posters .footer-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  align-items         : center;
+  bottom              : calc(0.00% + 70px);
+  height              : 16px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.posters .footer .linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "SFProText-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.posters .footer .linkedin:hover {
+  opacity             : 1;
+}
+.posters .footer .medium {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 101px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "SFProText-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.posters .footer .medium:hover {
+  opacity             : 1;
+}
+.posters .footer .instagram {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 199px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "SFProText-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.posters .footer .instagram:hover {
+  opacity             : 1;
+}
+.posters .footer .twitter {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 314px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "SFProText-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.posters .footer .twitter:hover {
+  opacity             : 1;
+}
+.posters .footer .email {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "SFProText-Bold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.posters .footer .email:hover {
+  opacity             : 1;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
